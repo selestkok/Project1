@@ -80,6 +80,7 @@ Explanation: This query provides a similar insight to the first query, but outpu
   Explanation: This query is crucial for post-adoption support and shelter relations. It helps managers follow up on pet well-being, encourage future adoptions, and organize adoption events. Building long-term relationships with adopters enhances the reputation and sustainability of the shelter.
 
 10. List all of the dogs
-![AD_4nXcyu2rPHYhjeC9NFJA2wSCrC-6PHPYg-Y8l515xp7VaeGJs9XYBbXrY1hSqKx6v85zH4-R2KyiQsLNUukL1IVLztGVaXryXoW65Sc8B3FJVjRkjGoknSSon](https://github.com/user-attachments/assets/56336289-bb79-421e-a967-6e4f9421c2b6)
+
+![AD_4nXfjrwuXu-NLvnyuMLaTzzzPPDv8qVysgbrlhuAPoT7Qpis-UclSj8DYxFrf6dgzFTrcfGQvf6rtE5lWNNSoxNeeNMBUu3omMi4nPzRtwjKL0eaPUamV_1dw](https://github.com/user-attachments/assets/d7004a8f-8260-4c11-84b8-eb1966b111d4)
 
 Explanation: Tracking all dogs in the shelter is critical for efficient shelter management and adoption planning. This helps managers plan adoption events, monitor shelter capacity, and assist breed specific rescues. By keeping an updated list of all dogs, shelters can ensure they provide the best care and find homes faster.
